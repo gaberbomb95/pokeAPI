@@ -1,10 +1,11 @@
 {
   "name": "pokeapi",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "pokeapi",
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js",
+    "develop": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
